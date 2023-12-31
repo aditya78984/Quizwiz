@@ -1,0 +1,1 @@
+QuizWiz is a console-based quiz application built by using python. It has features like signing up, signing in, display profile, change profile, etc. On the other hand a user can attempt quiz in different subjects, can track his activity and also check the leaderboard . 
