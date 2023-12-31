@@ -1,0 +1,10 @@
+Who invented Java Programming?, Guido van Rossum, James Gosling, Dennis Ritchie, Bjarne Stroustrup, 2
+Which statement is true about Java?, Java is a sequence-dependent programming language, Java is a code dependent programming language, Java is a platform-dependent programming language, Java is a platform-independent programming language, 4
+Which one of the following is not a Java feature?, Object-oriented, Use of pointers, Portable, Dynamic and Extensible, 2
+Which of the following is not an OOPS concept in Java?, Polymorphism, Inheritance, Compilation, Encapsulation, 3
+What is not the use of “this” keyword in Java?, Referring to the instance variable when a local variable has the same name, Passing itself to the method of the same class, Passing itself to another method, Calling another constructor in constructor chaining, 2
+Which of the following is a type of polymorphism in Java Programming?, Multiple polymorphism, Compile time polymorphism, Multilevel polymorphism, Execution time polymorphism, 2
+Which of these keywords is used to define interfaces in Java?, intf, Intf, interface, Interface, 3
+Which of the following is a superclass of every class in Java?, ArrayList, Abstract class, Object class, String, 3
+Which of these keywords are used for the block to be examined for exceptions?, check, throw, catch, try, 4
+Which one of the following is not an access modifier?, Protected, Void, Public, Private, 2

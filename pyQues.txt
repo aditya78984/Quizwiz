@@ -1,0 +1,10 @@
+What does append function return in python ?, list, boolean value, None, int value, 3
+How is a code block indicated in Python ?, Using curly braces {}, Using parenthesis(), Using square brackets[], Using indentation, 4
+What type of language is python ?, Compiled, Interpreted, Compiled as well as interpreted, Nota, 2
+Which of these is a immutable datatype ?, List, Dictionary, Tuple, Set, 3
+Which symbol is used for single line comments ?, #, @, //, /*, 1
+What is the output of the following code snippet?  print("Hello" + 3), Hello3, Error, 8, HelloHelloHello, 2
+Which method is used to remove the last element from a list in Python?, delete(), remove(), pop(), erase(), 3
+What is represented by '//' this symbol?, Integer division, Float division, Square root, NOTA, 1
+Which keyword is used to define a function in Python?, func, def, function, define, 2
+Which of the following is not a core data type in Python?, List, Table, Set, Dictionary, 2

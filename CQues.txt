@@ -1,0 +1,10 @@
+What is the syntax to declare a variable in C?, var_name data_type;, data_type var_name;, variable data_type;, int = var_name;, 2 
+Which of the following is not a valid data type in C?, float, double, real, char, 3
+What does the 'printf' function do in C?, Reads input from the user, Prints output to the console, Performs mathematical calculations, Declares a variable, 2
+How do you represent a single-line comment in C?, // comment, /* comment */, ' comment ', # comment, 1
+In C which keyword is used to exit from a loop prematurely?, stop, break, exit, terminate, 2
+What is the purpose of the 'sizeof' operator in C?, Returns the size of a variable in bytes, Performs arithmetic operations, Returns the size of a pointer, Returns the size of a function, 1
+Which header file should be included to use the 'malloc' and 'free' functions in C?, <memory.h>, <stdlib.h>, <stdio.h>, <malloc.h>, 2
+What is the result of the expression: 5 + 3 * 2 in C?, 16, 11, 10, 13, 2
+What is the purpose of the 'typedef' keyword in C?, Declares a new data type, Declares a variable, Declares a function, Declares a pointer, 1
+Which of the following is a correct way to initialize an array in C?, int arr[5] = {1,2,3,4,5};, int arr[] = {1,2,3,4,5};, int arr[5] = (1,2,3,4,5);, int arr = {1,2,3,4,5};, 2
